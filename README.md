@@ -1,10 +1,10 @@
 # CompanyTask
-A) Use Spring boot
-B) Use Rest controller
-C) Need DB configuration (Use RDB instead of in-memory)
-D) Use annotation based configuration (Not XML).
-E) JPA & Hibernate
+CompanyTask
+This project aims to develop a CRUD (Create, Read, Update, Delete) application for managing categories and products using Spring Boot, REST controllers, RDB (Relational Database) configuration, annotation-based configuration, JPA, and Hibernate.
 
-#Category CRUD operation.
-#Product CRUD operation.
-Relation between Category-Products should have one-to-many relation
+Prerequisites
+Before running the application, ensure you have the following prerequisites installed:
+
+Java Development Kit (JDK) version 8 or above
+Maven build tool
+A relational database (MySQL)
